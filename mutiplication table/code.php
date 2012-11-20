@@ -4,10 +4,10 @@
 <?php
 
 //i denotes the table sequence
- for ($i=1; $i<=10; $i++)
+ for ($i=1; $i<=100; $i++)
   { echo"<tr>";
   //a denotes the multipler 
-	  for($a=1;$a<=10;$a++)
+	  for($a=1;$a<=16;$a++)
 	  {
 		echo"
  <td>";
